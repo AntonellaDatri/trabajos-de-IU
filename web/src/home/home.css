@@ -1,0 +1,15 @@
+.items-style{
+    padding: 1rem;
+    align-self: flex-end;
+}
+
+.button-position{
+    padding: 3%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.banner-style{
+    display: flex;
+    justify-content: space-evenly; 
+}

@@ -1,0 +1,44 @@
+
+.perfil {
+  width: 33%;
+  text-align: initial;
+}
+
+.logo {
+  width: 33%;
+  text-align: center;
+  padding: 0%;
+}
+
+.buttom-box{
+  width: 33%;
+  display: grid;
+  grid-template-columns: 90% 10%;
+  padding: 7px;
+  background-color: #ffffff;
+  border-radius: 25px;
+}
+
+.search-input{
+  background-color: transparent;
+  border: transparent;
+  outline: none; 
+  justify-content: start;
+}
+
+.search-button, .search-button:focus, .search-button:active{
+  filter: opacity(.6);
+  color:transparent;
+  background: none; 
+  border: none;
+  outline: 0;
+}
+.search-button:hover{
+  filter: none; 
+}
+
+
+
+
+
+

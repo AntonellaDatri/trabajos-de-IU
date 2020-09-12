@@ -1,0 +1,28 @@
+.details-grid {
+    padding-top: 3em;
+    padding-left: 2em;
+    width: 100% !important;
+}
+
+.seasons-container {
+    background: lightgray;
+}
+
+.chapters-container {
+    max-height: 17em;
+    overflow: auto;
+}
+
+.chapter-info-container {
+    background: #d39e00;
+}
+
+.player-modal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.addFavoriteBotton{
+    width : 100%
+}
